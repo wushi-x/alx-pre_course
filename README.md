@@ -1,3 +1,1 @@
-My first readme
-
-^C
+another readme fot 0x01.git
